@@ -37,9 +37,6 @@ Contributions are welcome! If you'd like to add interview questions, improve exp
 - W3C HTML Specification: [https://html.spec.whatwg.org/](https://html.spec.whatwg.org/)
 - Web Accessibility Initiative (WAI): [https://www.w3.org/WAI/](https://www.w3.org/WAI/)
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 - Special thanks to all contributors who have helped improve this guide
 - Inspired by real-world interview experiences and industry best practices
